@@ -29,3 +29,21 @@
 
 -The data shows all lots have a similar mean and median of values that meet the criteria of the design specifications for MechaCar. Further breakdown of each individual lot shows that Lot 3 has very high variance and standard deviation values. This can present inconsistencies with compliance to overall satisfactory with design specifications. 
 
+## T-Tests on Suspension Coils 
+
+### Test: Determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
+
+### All Lots
+![All_Lots](https://user-images.githubusercontent.com/88383836/145436798-14d12a9a-7b47-4eb6-a4db-b7d06119fe9e.PNG)
+
+### Lot 1
+![Lot_1](https://user-images.githubusercontent.com/88383836/145436469-dca70f7f-7240-4795-9246-6662f08d0963.PNG)
+
+### Lot 2 
+![Lot_2](https://user-images.githubusercontent.com/88383836/145436857-4159e9b3-3e31-496b-9bdb-f5f42afb129c.PNG)
+
+### Lot 3
+![Lot_3](https://user-images.githubusercontent.com/88383836/145436903-e777b234-a155-4a7f-bfd5-50601f5c4fed.PNG)
+
+### Results Summary
+•	Lot 3 has a p-value of .04168. This details that there is a significant statical correlation between PSI and population mean of 1500 pounds per sq. inch. Lot 1 & 2 have high p-values indicating that PSI and population mean have little to no correlation. 
