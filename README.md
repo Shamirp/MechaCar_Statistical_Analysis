@@ -47,3 +47,7 @@
 
 ### Results Summary
 •	Lot 3 has a p-value of .04168. This details that there is a significant statical correlation between PSI and population mean of 1500 pounds per sq. inch. Lot 1 & 2 have high p-values indicating that PSI and population mean have little to no correlation. 
+
+ ## Study Design: MechaCar vs Competition
+ 
+Adding location type as a metric would provide substantial insight about competition. Evaluating data based on what type of area you live in (rural, suburban, and urban) would give more insight on which cars work efficiently and where. The null hypothesis to  evaluate location and efficiency would be; if we have the same car in any location type, then there will be no difference in efficiency metrics such as mpg. The alternative hypothesis would be; if we have the same car in any location type, then efficiency metrics like mpg will show a change. A linear model can evaluate the same car and based on location the car is used in we can view all the coefficients that factor into fuel efficiency. The data necessary to conduct this test would involve location of the car in use and more data than just mpg to evaluate efficiency, for example, maintenance costs. 
